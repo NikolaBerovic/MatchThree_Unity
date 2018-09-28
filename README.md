@@ -1,7 +1,7 @@
 # MatchThree_Unity
 Object oriented match three game written in C# for Unity Engine. Gameplay includes 4 type of bombs: Horizontal, Vertical, Neighbour and Color.
 
-![alt text](https://lh4.googleusercontent.com/KzC_axA6cmfmTzl06PEb9vdNH5O_5dLuM-x3tUz8xTHFrOOXO71jHcSobLTkT_ElCj_ret0W9Bb98nS4nZ7A=w1366-h654)
+![alt text](http://www.mediafire.com/convkey/3354/q69tr084gpj4ajazg.jpg)
 
 ## Prerequisites
 - Unity3d 2017.4+ https://unity3d.com/get-unity/download/archive/
@@ -17,11 +17,10 @@ Object oriented match three game written in C# for Unity Engine. Gameplay includ
 ## Usage
 Default parameters already set, if custom needed:
 1. In Hierarchy->Board set preferred board settings
-- ![alt text](https://lh5.googleusercontent.com/Y4Yln-N5m1I-sCzsz-k0iSofU3FRRbv8gfjyfuCSgVWDawPOoSlrHe1p_wtgWe2I34FTvbN9k33pNZSqckYE=w1366-h654)
+- ![alt text](http://www.mediafire.com/convkey/a679/bc7prob44bg3rmozg.jpg)
   
 2. In Hierarchy->Managers->GameManager set preferred game conditions
-- ![alt text](https://lh4.googleusercontent.com/kUITPXn8MVnADfDh4PRO2s_onSBXk7VothjYiozGMkeOdZU-eAIR_dUETR-8qI-J-lkzXHe0JCrH_Vbp_--6=w1366-h654
-)
+- ![alt text](http://www.mediafire.com/convkey/46b1/dwgwzl6zaoxwy6lzg.jpg)
 3. Generally use managers located in Hierarchy->Managers for any custom settings!
 
 4. Simulate!
