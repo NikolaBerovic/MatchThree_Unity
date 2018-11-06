@@ -269,7 +269,7 @@ public class Board : MonoBehaviour
 
                 if (targetPiece.GetType() == typeof(Bomb))
                 {
-                    Bomb targetBomb = (Bomb)clickedPiece;
+                    Bomb targetBomb = (Bomb)targetPiece;
                     if (targetBomb.BombType == BombType.Color)
                     {
                         targetBomb.MatchValue = clickedPiece.MatchValue;
